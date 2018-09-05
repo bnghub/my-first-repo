@@ -1,0 +1,17 @@
+commit 8b61e5d1f86befda7f98b4a4ecc624642a96eb2e
+Author: bnghub <bnedilko@yahoo.com>
+Date:   Wed Sep 5 14:46:08 2018 -0700
+
+    added gitignore
+
+commit ace27bb9f554da1794fd743da819c61560753d74
+Author: bnghub <bnedilko@yahoo.com>
+Date:   Wed Sep 5 14:13:52 2018 -0700
+
+    added two files
+
+commit 430c6a0426b2c527346dc239d96cbbbc1c91e2e9
+Author: bnghub <bnedilko@yahoo.com>
+Date:   Wed Sep 5 14:00:25 2018 -0700
+
+    added readme.txt
